@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3bcf6794-5d7b-484a-841f-34a32691270b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YQqrmrbDyhrWQ3sEyBflM2QWSK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RunManager" selected="Application.BinarySearch">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="chapter1_IntroductionToAlgorithms.BinarySearch" />
+      <module name="GrokkingAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter1_IntroductionToAlgorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GrokkingAlgorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/chapter1_IntroductionToAlgorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/chapter1_IntroductionToAlgorithms/BinarySearch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Scala REPL" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="GrokkingAlgorithms" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="javaOptions" value="-Djline.terminal=NONE" />
+      <option name="myConsoleArgs" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Scala REPL.Scala REPL" />
+        <item itemvalue="Python.BinarySearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../fpinscala" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bcf6794-5d7b-484a-841f-34a32691270b" name="Default Changelist" comment="" />
+      <created>1582885367009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582885367009</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="343" y="179" key="#Inspections" timestamp="1582886005109">
+      <screen x="0" y="40" width="1500" height="960" />
+    </state>
+    <state x="343" y="179" key="#Inspections/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582886005109" />
+    <state x="475" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1582888928348">
+      <screen x="0" y="40" width="1500" height="960" />
+    </state>
+    <state x="475" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582888928348" />
+    <state x="431" y="248" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582886674356">
+      <screen x="0" y="40" width="1500" height="960" />
+    </state>
+    <state x="431" y="248" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582886674356" />
+    <state x="552" y="332" key="FileChooserDialogImpl" timestamp="1582886651774">
+      <screen x="0" y="40" width="1500" height="960" />
+    </state>
+    <state x="552" y="332" key="FileChooserDialogImpl/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582886651774" />
+    <state width="1458" height="256" key="GridCell.Tab.0.bottom" timestamp="1582896743294">
+      <screen x="0" y="40" width="1500" height="960" />
+    </state>
+    <state width="1458" height="256" key="GridCell.Tab.0.bottom/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582896743294" />
+    <state width="1458" height="256" key="GridCell.Tab.0.center" timestamp="1582896743293">
+      <screen x="0" y="40" width="1500" height="960" />
+    </state>
+    <state width="1458" height="256" key="GridCell.Tab.0.center/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582896743293" />
+    <state width="1458" height="256" key="GridCell.Tab.0.left" timestamp="1582896743292">
+      <screen x="0" y="40" width="1500" height="960" />
+    </state>
+    <state width="1458" height="256" key="GridCell.Tab.0.left/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582896743292" />
+    <state width="1458" height="256" key="GridCell.Tab.0.right" timestamp="1582896743293">
+      <screen x="0" y="40" width="1500" height="960" />
+    </state>
+    <state width="1458" height="256" key="GridCell.Tab.0.right/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582896743293" />
+    <state x="252" y="151" key="SettingsEditor" timestamp="1582889017465">
+      <screen x="0" y="40" width="1500" height="960" />
+    </state>
+    <state x="252" y="151" key="SettingsEditor/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582889017465" />
+    <state x="446" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1582886746723">
+      <screen x="0" y="40" width="1500" height="960" />
+    </state>
+    <state x="446" y="344" key="com.intellij.ide.util.TipDialog/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582886746722" />
+  </component>
+</project>
