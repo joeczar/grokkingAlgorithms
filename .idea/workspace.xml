@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bcf6794-5d7b-484a-841f-34a32691270b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchAndSort/SelectionSort.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchAndSort/Recursion.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchAndSort/recursion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrokkingAlgorithms/chapter1_IntroductionToAlgorithms/BinarySearch$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrokkingAlgorithms/chapter1_IntroductionToAlgorithms/BinarySearch$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrokkingAlgorithms/chapter1_IntroductionToAlgorithms/BinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrokkingAlgorithms/chapter1_IntroductionToAlgorithms/BinarySearch.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter1_IntroductionToAlgorithms/BinarySearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/SearchAndSort/BinarySearch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter1_IntroductionToAlgorithms/BinarySearch.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/SearchAndSort/BinarySearch.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metals/metals.h2.db" beforeDir="false" afterPath="$PROJECT_DIR$/.metals/metals.h2.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metals/metals.lock.db" beforeDir="false" afterPath="$PROJECT_DIR$/.metals/metals.lock.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +37,22 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.SelectionSort">
+  <component name="RunManager" selected="Application.Recursion">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="SearchAndSort.BinarySearch" />
+      <module name="GrokkingAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SearchAndSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="SearchAndSort.Recursion" />
       <module name="GrokkingAlgorithms" />
       <extension name="coverage">
         <pattern>
@@ -101,6 +110,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Recursion" />
         <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Scala REPL.Scala REPL" />
@@ -145,26 +155,26 @@
       <screen x="0" y="40" width="1500" height="960" />
     </state>
     <state x="552" y="332" key="FileChooserDialogImpl/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582886651774" />
-    <state width="1458" height="256" key="GridCell.Tab.0.bottom" timestamp="1582980987007">
+    <state width="1458" height="256" key="GridCell.Tab.0.bottom" timestamp="1583001973764">
       <screen x="0" y="40" width="1500" height="960" />
     </state>
     <state width="1458" height="256" key="GridCell.Tab.0.bottom/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582905562339" />
-    <state width="1458" height="256" key="GridCell.Tab.0.bottom/0.40.1500.960@0.40.1500.960" timestamp="1582980987007" />
-    <state width="1458" height="256" key="GridCell.Tab.0.center" timestamp="1582980987007">
+    <state width="1458" height="256" key="GridCell.Tab.0.bottom/0.40.1500.960@0.40.1500.960" timestamp="1583001973764" />
+    <state width="1458" height="256" key="GridCell.Tab.0.center" timestamp="1583001973764">
       <screen x="0" y="40" width="1500" height="960" />
     </state>
     <state width="1458" height="256" key="GridCell.Tab.0.center/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582905562339" />
-    <state width="1458" height="256" key="GridCell.Tab.0.center/0.40.1500.960@0.40.1500.960" timestamp="1582980987007" />
-    <state width="1458" height="256" key="GridCell.Tab.0.left" timestamp="1582980987007">
+    <state width="1458" height="256" key="GridCell.Tab.0.center/0.40.1500.960@0.40.1500.960" timestamp="1583001973764" />
+    <state width="1458" height="256" key="GridCell.Tab.0.left" timestamp="1583001973763">
       <screen x="0" y="40" width="1500" height="960" />
     </state>
     <state width="1458" height="256" key="GridCell.Tab.0.left/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582905562339" />
-    <state width="1458" height="256" key="GridCell.Tab.0.left/0.40.1500.960@0.40.1500.960" timestamp="1582980987007" />
-    <state width="1458" height="256" key="GridCell.Tab.0.right" timestamp="1582980987007">
+    <state width="1458" height="256" key="GridCell.Tab.0.left/0.40.1500.960@0.40.1500.960" timestamp="1583001973763" />
+    <state width="1458" height="256" key="GridCell.Tab.0.right" timestamp="1583001973764">
       <screen x="0" y="40" width="1500" height="960" />
     </state>
     <state width="1458" height="256" key="GridCell.Tab.0.right/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582905562339" />
-    <state width="1458" height="256" key="GridCell.Tab.0.right/0.40.1500.960@0.40.1500.960" timestamp="1582980987007" />
+    <state width="1458" height="256" key="GridCell.Tab.0.right/0.40.1500.960@0.40.1500.960" timestamp="1583001973764" />
     <state x="252" y="151" key="SettingsEditor" timestamp="1582889017465">
       <screen x="0" y="40" width="1500" height="960" />
     </state>
