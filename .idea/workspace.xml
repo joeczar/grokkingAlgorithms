@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bcf6794-5d7b-484a-841f-34a32691270b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SearchAndSort/DivideAndConquer.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrokkingAlgorithms/SearchAndSort/Recursion$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GrokkingAlgorithms/SearchAndSort/Recursion$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrokkingAlgorithms/SearchAndSort/Recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GrokkingAlgorithms/SearchAndSort/Recursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SearchAndSort/Recursion.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/SearchAndSort/Recursion.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrokkingAlgorithms/SearchAndSort/DivideAndConquer$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GrokkingAlgorithms/SearchAndSort/DivideAndConquer$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrokkingAlgorithms/SearchAndSort/DivideAndConquer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GrokkingAlgorithms/SearchAndSort/DivideAndConquer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrokkingAlgorithms/SearchAndSort/DivideAndConquer.py" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GrokkingAlgorithms/SearchAndSort/DivideAndConquer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SearchAndSort/DivideAndConquer.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/SearchAndSort/DivideAndConquer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SearchAndSort/DivideAndConquer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/SearchAndSort/DivideAndConquer.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,35 +148,35 @@
       <screen x="0" y="40" width="1500" height="960" />
     </state>
     <state x="552" y="332" key="FileChooserDialogImpl/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582886651774" />
-    <state width="794" height="255" key="GridCell.Tab.0.bottom" timestamp="1583017046117">
+    <state width="707" height="255" key="GridCell.Tab.0.bottom" timestamp="1583017196305">
       <screen x="0" y="40" width="1500" height="960" />
     </state>
     <state width="1458" height="256" key="GridCell.Tab.0.bottom/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582905562339" />
-    <state width="794" height="255" key="GridCell.Tab.0.bottom/0.40.1500.960@0.40.1500.960" timestamp="1583017046117" />
-    <state width="794" height="255" key="GridCell.Tab.0.center" timestamp="1583017046116">
+    <state width="707" height="255" key="GridCell.Tab.0.bottom/0.40.1500.960@0.40.1500.960" timestamp="1583017196305" />
+    <state width="707" height="255" key="GridCell.Tab.0.center" timestamp="1583017196305">
       <screen x="0" y="40" width="1500" height="960" />
     </state>
     <state width="1458" height="256" key="GridCell.Tab.0.center/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582905562339" />
-    <state width="794" height="255" key="GridCell.Tab.0.center/0.40.1500.960@0.40.1500.960" timestamp="1583017046116" />
-    <state width="794" height="255" key="GridCell.Tab.0.left" timestamp="1583017046116">
+    <state width="707" height="255" key="GridCell.Tab.0.center/0.40.1500.960@0.40.1500.960" timestamp="1583017196305" />
+    <state width="707" height="255" key="GridCell.Tab.0.left" timestamp="1583017196304">
       <screen x="0" y="40" width="1500" height="960" />
     </state>
     <state width="1458" height="256" key="GridCell.Tab.0.left/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582905562339" />
-    <state width="794" height="255" key="GridCell.Tab.0.left/0.40.1500.960@0.40.1500.960" timestamp="1583017046116" />
-    <state width="794" height="255" key="GridCell.Tab.0.right" timestamp="1583017046116">
+    <state width="707" height="255" key="GridCell.Tab.0.left/0.40.1500.960@0.40.1500.960" timestamp="1583017196304" />
+    <state width="707" height="255" key="GridCell.Tab.0.right" timestamp="1583017196305">
       <screen x="0" y="40" width="1500" height="960" />
     </state>
     <state width="1458" height="256" key="GridCell.Tab.0.right/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582905562339" />
-    <state width="794" height="255" key="GridCell.Tab.0.right/0.40.1500.960@0.40.1500.960" timestamp="1583017046116" />
+    <state width="707" height="255" key="GridCell.Tab.0.right/0.40.1500.960@0.40.1500.960" timestamp="1583017196305" />
     <state x="252" y="151" key="SettingsEditor" timestamp="1582889017465">
       <screen x="0" y="40" width="1500" height="960" />
     </state>
     <state x="252" y="151" key="SettingsEditor/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582889017465" />
-    <state x="446" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1582974257639">
+    <state x="446" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1583080228017">
       <screen x="0" y="40" width="1500" height="960" />
     </state>
     <state x="446" y="344" key="com.intellij.ide.util.TipDialog/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582886746722" />
-    <state x="446" y="344" key="com.intellij.ide.util.TipDialog/0.40.1500.960@0.40.1500.960" timestamp="1582974257639" />
+    <state x="446" y="344" key="com.intellij.ide.util.TipDialog/0.40.1500.960@0.40.1500.960" timestamp="1583080228017" />
     <state x="410" y="243" key="run.anything.popup" timestamp="1582976753467">
       <screen x="0" y="40" width="1500" height="960" />
     </state>
