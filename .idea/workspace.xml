@@ -2,12 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bcf6794-5d7b-484a-841f-34a32691270b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_scala_graph_graph_core_2_13_1_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GrokkingAlgorithmsPython/GrokkingAlgorithmsPython.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GrokkingAlgorithmsPython/SearchAndSort/BreadthFirstSearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GrokkingAlgorithmsPython/SearchAndSort/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchAndSort/BreadthFirstSearch.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrokkingAlgorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GrokkingAlgorithms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrokkingAlgorithms/SearchAndSort/BinarySearch.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/GrokkingAlgorithms/SearchAndSort/DivideAndConquer$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GrokkingAlgorithms/SearchAndSort/DivideAndConquer$.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/GrokkingAlgorithms/SearchAndSort/DivideAndConquer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GrokkingAlgorithms/SearchAndSort/DivideAndConquer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrokkingAlgorithms/SearchAndSort/DivideAndConquer.py" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GrokkingAlgorithms/SearchAndSort/DivideAndConquer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SearchAndSort/DivideAndConquer.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/SearchAndSort/DivideAndConquer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SearchAndSort/DivideAndConquer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/SearchAndSort/DivideAndConquer.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrokkingAlgorithms/SearchAndSort/DivideAndConquer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrokkingAlgorithms/SearchAndSort/SelectionSort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrokkingAlgorithms/SearchAndSort/recursion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SearchAndSort/BinarySearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/GrokkingAlgorithmsPython/SearchAndSort/BinarySearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SearchAndSort/DivideAndConquer.py" beforeDir="false" afterPath="$PROJECT_DIR$/GrokkingAlgorithmsPython/SearchAndSort/DivideAndConquer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SearchAndSort/SelectionSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/GrokkingAlgorithmsPython/SearchAndSort/SelectionSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SearchAndSort/recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/GrokkingAlgorithmsPython/SearchAndSort/recursion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +30,13 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,16 +52,28 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="jdk.selected.PYTHON_MODULE" value="Python 3.8" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="scala_project_settings_configurable.last_selected_tab_index" value="0" />
+    <property name="settings.editor.selected.configurable" value="sbt.project.settings.configurable" />
   </component>
-  <component name="RunManager" selected="Application.DivideAndConquer">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="SearchAndSort.BinarySearch" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\joecz\OneDrive\Code\scala\GrokkingAlgorithms\GrokkingAlgorithmsPython\SearchAndSort" />
+      <recent name="C:\Users\joecz\OneDrive\Code\scala\GrokkingAlgorithms\GrokkingAlgorithmsPython" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BreadthFirstSearch">
+    <configuration name="BreadthFirstSearch" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="SearchAndSort.BreadthFirstSearch" />
       <module name="GrokkingAlgorithms" />
       <extension name="coverage">
         <pattern>
@@ -91,23 +124,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scala REPL" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <module name="GrokkingAlgorithms" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="javaOptions" value="-Djline.terminal=NONE" />
-      <option name="myConsoleArgs" value="" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="BreadthFirstSearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GrokkingAlgorithmsPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GrokkingAlgorithmsPython/SearchAndSort" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GrokkingAlgorithmsPython/SearchAndSort/BreadthFirstSearch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BreadthFirstSearch" />
+        <item itemvalue="Python.BreadthFirstSearch" />
         <item itemvalue="Application.DivideAndConquer" />
         <item itemvalue="Application.Recursion" />
         <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Scala REPL.Scala REPL" />
       </list>
     </recent_temporary>
   </component>
@@ -115,6 +159,13 @@
     <option name="projectSyncType">
       <map>
         <entry key="$PROJECT_DIR$/../fpinscala" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="xml" value="XML" />
       </map>
     </option>
   </component>
@@ -132,51 +183,75 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="343" y="179" key="#Inspections" timestamp="1582886005109">
+    <state x="469" y="124" key="#BreadthFirstSearch" timestamp="1583238888476">
+      <screen x="0" y="40" width="1500" height="960" />
+    </state>
+    <state x="469" y="124" key="#BreadthFirstSearch/0.40.1500.960@0.40.1500.960" timestamp="1583238888476" />
+    <state x="343" y="179" key="#Inspections" timestamp="1583234193951">
       <screen x="0" y="40" width="1500" height="960" />
     </state>
     <state x="343" y="179" key="#Inspections/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582886005109" />
-    <state x="475" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1582888928348">
+    <state x="343" y="179" key="#Inspections/0.40.1500.960@0.40.1500.960" timestamp="1583234193951" />
+    <state x="343" y="179" key="#Intentions" timestamp="1583238976469">
+      <screen x="0" y="40" width="1500" height="960" />
+    </state>
+    <state x="343" y="179" key="#Intentions/0.40.1500.960@0.40.1500.960" timestamp="1583238976469" />
+    <state x="498" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583239548088">
+      <screen x="0" y="40" width="1500" height="960" />
+    </state>
+    <state x="498" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.40.1500.960@0.40.1500.960" timestamp="1583239548088" />
+    <state x="475" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1583238276772">
       <screen x="0" y="40" width="1500" height="960" />
     </state>
     <state x="475" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582888928348" />
+    <state x="475" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.40.1500.960@0.40.1500.960" timestamp="1583238276772" />
     <state x="431" y="248" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582886674356">
       <screen x="0" y="40" width="1500" height="960" />
     </state>
     <state x="431" y="248" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582886674356" />
-    <state x="552" y="332" key="FileChooserDialogImpl" timestamp="1582886651774">
+    <state x="552" y="332" key="FileChooserDialogImpl" timestamp="1583238397382">
       <screen x="0" y="40" width="1500" height="960" />
     </state>
     <state x="552" y="332" key="FileChooserDialogImpl/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582886651774" />
-    <state width="707" height="255" key="GridCell.Tab.0.bottom" timestamp="1583017196305">
+    <state x="552" y="332" key="FileChooserDialogImpl/0.40.1500.960@0.40.1500.960" timestamp="1583238397382" />
+    <state width="1458" height="255" key="GridCell.Tab.0.bottom" timestamp="1583248312013">
       <screen x="0" y="40" width="1500" height="960" />
     </state>
     <state width="1458" height="256" key="GridCell.Tab.0.bottom/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582905562339" />
-    <state width="707" height="255" key="GridCell.Tab.0.bottom/0.40.1500.960@0.40.1500.960" timestamp="1583017196305" />
-    <state width="707" height="255" key="GridCell.Tab.0.center" timestamp="1583017196305">
+    <state width="1458" height="255" key="GridCell.Tab.0.bottom/0.40.1500.960@0.40.1500.960" timestamp="1583248312013" />
+    <state width="1458" height="255" key="GridCell.Tab.0.center" timestamp="1583248312012">
       <screen x="0" y="40" width="1500" height="960" />
     </state>
     <state width="1458" height="256" key="GridCell.Tab.0.center/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582905562339" />
-    <state width="707" height="255" key="GridCell.Tab.0.center/0.40.1500.960@0.40.1500.960" timestamp="1583017196305" />
-    <state width="707" height="255" key="GridCell.Tab.0.left" timestamp="1583017196304">
+    <state width="1458" height="255" key="GridCell.Tab.0.center/0.40.1500.960@0.40.1500.960" timestamp="1583248312012" />
+    <state width="1458" height="255" key="GridCell.Tab.0.left" timestamp="1583248312012">
       <screen x="0" y="40" width="1500" height="960" />
     </state>
     <state width="1458" height="256" key="GridCell.Tab.0.left/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582905562339" />
-    <state width="707" height="255" key="GridCell.Tab.0.left/0.40.1500.960@0.40.1500.960" timestamp="1583017196304" />
-    <state width="707" height="255" key="GridCell.Tab.0.right" timestamp="1583017196305">
+    <state width="1458" height="255" key="GridCell.Tab.0.left/0.40.1500.960@0.40.1500.960" timestamp="1583248312012" />
+    <state width="1458" height="255" key="GridCell.Tab.0.right" timestamp="1583248312013">
       <screen x="0" y="40" width="1500" height="960" />
     </state>
     <state width="1458" height="256" key="GridCell.Tab.0.right/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582905562339" />
-    <state width="707" height="255" key="GridCell.Tab.0.right/0.40.1500.960@0.40.1500.960" timestamp="1583017196305" />
-    <state x="252" y="151" key="SettingsEditor" timestamp="1582889017465">
+    <state width="1458" height="255" key="GridCell.Tab.0.right/0.40.1500.960@0.40.1500.960" timestamp="1583248312013" />
+    <state x="252" y="151" key="SettingsEditor" timestamp="1583239830128">
       <screen x="0" y="40" width="1500" height="960" />
     </state>
     <state x="252" y="151" key="SettingsEditor/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582889017465" />
-    <state x="446" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1583080228017">
+    <state x="252" y="151" key="SettingsEditor/0.40.1500.960@0.40.1500.960" timestamp="1583239830128" />
+    <state x="446" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1583152540415">
       <screen x="0" y="40" width="1500" height="960" />
     </state>
     <state x="446" y="344" key="com.intellij.ide.util.TipDialog/0.40.1500.960/-1600.60.640.984@0.40.1500.960" timestamp="1582886746722" />
-    <state x="446" y="344" key="com.intellij.ide.util.TipDialog/0.40.1500.960@0.40.1500.960" timestamp="1583080228017" />
+    <state x="446" y="344" key="com.intellij.ide.util.TipDialog/0.40.1500.960@0.40.1500.960" timestamp="1583152540415" />
+    <state x="495" y="471" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583239813151">
+      <screen x="0" y="40" width="1500" height="960" />
+    </state>
+    <state x="495" y="471" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.40.1500.960@0.40.1500.960" timestamp="1583239813151" />
+    <state x="0" y="245" key="new project wizard" timestamp="1583235851878">
+      <screen x="0" y="40" width="1500" height="960" />
+    </state>
+    <state x="0" y="245" key="new project wizard/0.40.1500.960@0.40.1500.960" timestamp="1583235851878" />
     <state x="410" y="243" key="run.anything.popup" timestamp="1582976753467">
       <screen x="0" y="40" width="1500" height="960" />
     </state>

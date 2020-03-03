@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GrokkingAlgorithms.iml" filepath="$PROJECT_DIR$/GrokkingAlgorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GrokkingAlgorithmsPython/GrokkingAlgorithmsPython.iml" filepath="$PROJECT_DIR$/GrokkingAlgorithmsPython/GrokkingAlgorithmsPython.iml" />
     </modules>
   </component>
 </project>
